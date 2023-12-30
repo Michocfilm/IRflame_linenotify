@@ -1,3 +1,4 @@
 # IRfire_Linenotify
 D4 = A0 <br>
-VIN = VCC+
+VIN = VCC+ <br>
+GND = GND
