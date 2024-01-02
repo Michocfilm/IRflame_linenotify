@@ -1,6 +1,7 @@
 
-<p align="center"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.arduino.cc/en/software" target="_blank" rel="noreferrer"><img src="https://cdn.sparkfun.com/r/600-600/assets/learn_tutorials/6/1/arduinoThumb.jpg" width="36" height="36" alt="A" /></a>
+<p align="center"><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a></p>
+<a href="https://www.arduino.cc/en/software"><kbd>🔵 Arduino IDE</kbd></a>
 
 # ✨IRfire_Linenotify💕
 D4 = A0                                                                                                                                                                                                                       
