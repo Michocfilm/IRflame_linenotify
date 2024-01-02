@@ -3,11 +3,6 @@
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a></p>
 <a href="https://www.arduino.cc/en/software"><kbd>🟢 Arduino IDE</kbd></a>
 
-# ✨IRfire_Linenotify💕
-D4 = A0                                                                                                                                                                                                                       
-VIN = VCC+   
-GND = GND
-
 # 🕯️What is IR flame sensor
 **IR flame sensor** or an **Infrared flame sensor** An infrared (IR) flame sensor is a device designed to detect the presence of a flame or fire by sensing the infrared radiation emitted by the flames.
 
@@ -29,3 +24,8 @@ The specific design and features of IR flame sensors can vary, but they are ofte
 - Directionality - If the flame is not in the line of sight, detection accuracy may be compromised.
 - Sensitivity to Ambient Conditions - Changes in ambient conditions air composition can affect the performance.
 - Limited to Certain Types of Flames - designed to detect specific wavelengths of infrared radiation associated with combustion.
+
+# ✨IRfire_Linenotify💕
+D4 = A0                                                                                                                                                                                                                       
+VIN = VCC+   
+GND = GND
