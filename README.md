@@ -7,7 +7,7 @@ D4 = A0
 VIN = VCC+   
 GND = GND
 
-# What is IR flame sensor
+# 🕯️What is IR flame sensor
 "IR flame sensor" or an "Infrared flame sensor." An infrared (IR) flame sensor is a device designed to detect the presence of a flame or fire by sensing the infrared radiation emitted by the flames.
 
 These sensors are commonly used in fire detection and "safety applications." They work by detecting the characteristic infrared radiation emitted by flames. When a flame is present, it emits infrared radiation in the form of heat, and an IR flame sensor can detect this radiation to identify the existence of a flame.
