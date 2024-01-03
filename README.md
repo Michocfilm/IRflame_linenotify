@@ -1,6 +1,6 @@
 
 <p align="center">
-	<img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" />
+	<a href="https://www.arduino.cc/en/software"><img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" /></a>
 </p>
 <a href="https://www.arduino.cc/en/software"><kbd>🟢 Arduino IDE</kbd></a>
 
