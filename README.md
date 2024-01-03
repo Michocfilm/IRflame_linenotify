@@ -1,6 +1,6 @@
 
 <p align="center">
-	<a href="https://www.arduino.cc/en/software" target="_blank"><img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" /></a>
+	<a href="https://www.arduino.cc/en/software" title="Arduino IDE" target="_blank"><img src="http://content.arduino.cc/brand/arduino-color.svg" width="50%" alt="Arduino"></a>
 </p>
 <a href="https://www.arduino.cc/en/software"><kbd>🟢 Arduino IDE</kbd></a>
 
